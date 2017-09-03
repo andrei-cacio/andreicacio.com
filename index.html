@@ -77,15 +77,35 @@
         color: lightpink;
     }
 
+    #footer {
+        display: flex;;
+    }
+
     #footer .copyright {
-        position: relative;
-        margin-left: 50%;
+        padding: 20px;
+        margin: auto;
         font-size: 13px;
         color: cadetblue;
+    }
+    .social {
+        display: flex;
+        flex-direction: column;
+    }
+    .social > * {
+        margin: auto;
+        padding: 10px;
     }
 </style>
 <h1><a id="Hi_my_name_is_Andrei_Cacio_0"></a>Andrei CACIO { <span class="webdev">web developer</span> }</h1>
 <p>I am currently a <b>Sr. Frontend Developer</b> at 8x8 Inc. in Cluj Napoca, Romania. My main flavour is <span style="color: lightseagreen">JavaScript</span>. I am a strong believer in code quality and writing lines of working product. I worked on all kinds of web applications, from small to large. In my spare time I like working on some of my open source pet projects and I also enjoy giving the occasional tech talk.</p>
+<hr />
+<div class="social">
+<a href="https://stackoverflow.com/users/2707195/andrei-cacio">
+<img src="https://stackoverflow.com/users/flair/2707195.png" width="208" height="58" alt="profile for Andrei CACIO at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Andrei CACIO at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+<div class="github-card" data-github="andrei-cacio" data-width="400" data-height="150" data-theme="default"></div>
+<script src="http://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</div>
 <hr />
 <h2> Open source </h2>
 <dl class="list">
@@ -110,7 +130,7 @@
     <dt>2015 - <a href="http://slides.com/andreicacio/introducing-ironwingjs"> Introducing Ironwingjs </a></dt>
     <dd>Abstract transport layer</dd>
     <dt>2013 - <a href="#"> Introducing Meteorjs</a></dt>
-    <dd> A short intro about Metero </dd>
+    <dd> A short intro about the Meteor js framework </dd>
 </dl>
 <hr />
 <h2>Blog</h2>
@@ -123,6 +143,6 @@
     <span><a class="url" href="mailto:contact@andreicacio.com">contact@andreicacio.com</a></span>
 </div>
 <div id="footer">
-    <span class="copyright">Copyright (C) 2016 Andrei Cacio</span>
+    <span class="copyright">Copyright (C) 2017 Andrei Cacio</span>
 </div>
 </body></html>
