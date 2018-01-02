@@ -166,7 +166,10 @@
 		<span><a class="url" href="mailto:contact@andreicacio.com">contact@andreicacio.com</a></span>
 	</div>
 	<div id="footer">
-		<span class="copyright">Copyright (C) 2017 Andrei Cacio</span>
+		<span class="copyright">Copyright (C) <span id="year"></span> Andrei Cacio</span>
 	</div>
+	<script>
+		document.getElementById('year').innerText = new Date().getFullYear();
+	</script>
 </body>
 </html>
