@@ -1,0 +1,36 @@
+- name: distil-wasm
+  url: https://github.com/andrei-cacio/distil-wasm
+  description: This is a WebAssembly port of Elliot Jackson's Distil app
+  status: live
+  tags:
+    - WebAssembly
+    - Rust
+  icon: github
+
+
+- name: learning-web-assembly
+  url: https://github.com/andrei-cacio/learning-web-assembly
+  description: Basic WebAssembly concepts explained
+  status: live
+  tags:
+    - WebAssembly
+    - JavaScript
+  icon: github
+
+- name: svg-space-rocks-game
+  url: https://github.com/andrei-cacio/svg-space-rocks-game
+  description: While learning about SVGs, I created a fun little game
+  status: live
+  tags:
+    - SVG
+    - JavaScript
+  icon: github
+
+- name: anatomy of es modules
+  url: https://github.com/andrei-cacio/es-modules
+  description: An overview of how ES Modules work
+  status: live
+  tags:
+    - ES Modules
+    - JavaScript
+  icon: github

@@ -1,0 +1,38 @@
+- profile:
+  initials: AC
+  name: Andrei Cacio
+  email: contact@andreicacio.com
+  profession: JavaScript Developer
+  image: images/profile.jpg
+  location: Cluj-Napoca, RO
+  relocation: false
+  company: Evozon, Meetup Organizer at JSHeroes Community
+  for_hire: false
+  focus: Automation, Architecture
+  focus_url: https://gatsbyjs.org
+  about: |
+    I am an experienced and passionate web developer. The past years I have been more active in the Browser but I do like getting my hands dirty on the other end of HTTP as well.
+
+    I like mentoring people and help them grow. I had the wonderful opportunity to guide people into holding their first meetup or presentation. I also co-hosted some meetups together with friends just to get them started.
+ 
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Web Security
+    - Web Performance
+    - Giving one hell of a tech talk
+    - Mentoring
+  tools:
+    - React
+    - Vue
+    - Webpack
+    - Jest
+    - Storybook
+    - Git
+    - Eslint
+    - Prettier
+  budget:
+    currency: $
+    min: 40
+    max: 60
+    default: 45

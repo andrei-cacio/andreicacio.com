@@ -1,0 +1,109 @@
+[
+	{
+		"name": "2020 - Ask me anything: BA, HR, PM",
+		"where": ["JSHeroes Community Online Events"],
+		"url": "https://www.youtube.com/watch?v=faBEYsP3OT8&t=55s",
+		"description": "My role was to moderate a panel with 3 invited guests. We talked about the role of a BA, HR and a PM in our industry.",
+		"tags": ["online-event", "moderator", "meetup"]
+	},
+	{
+		"name": "2020 - Open talk: What does full stack developer even mean?",
+		"where": ["JSHeroes Community Online Events"],
+		"url": "https://www.youtube.com/watch?v=QCLoKU2e7Sk&t=73s",
+		"description": "My role was to moderate an open talk about the role of \"full stack developer\". We disected the career path of a full stack developer, it's role in a team and what it takes to become one.",
+		"tags": ["online-event", "open-talk", "moderator", "meetup"]
+	},
+	{
+		"name": "2019 - Transformation matrix explained",
+		"where": ["JSHeroes Community"],
+		"url": "https://slides.com/andrei-cacio/transformation-matrix",
+		"description": "A short presentation about how CSS's transform() function works. And a tiny bit of linear algebra.",
+		"tags": ["lightning-talk", "meetup", "css", "javascript"]
+	},
+	{
+		"name": "2019 - NodeSchool Cluj Mentor",
+		"where": ["JSHeroes Community NodeSchool edition"],
+		"description": "NodeSchool is an all day event where anybody can come in and start playing around with code. Each team has a dedicated mentor to help them out.",
+		"tags": ["mentor", "javascript", "node-school"]
+	},
+	{
+		"name": "2019 - Working with code katas",
+		"where": ["JSHeroes Community"],
+		"description": "The purpose of this meetup was to take pair programming to the next level: crowd programming. We hand picked a few katas from codewars.com which tackled a wide range of programming skills and we solved them together.",
+		"tags": ["crowd-programming", "meetup", "algorithms", "javascript"]
+	},
+	{
+		"name": "2019 - Review my code!",
+		"where": ["JSHeroes Community"],
+		"description": "A fun meetup where pople brought in their code and we reviewed it together.",
+		"tags": ["crowd-reviewing"]
+	},
+	{
+		"name": "2019 - Web Security Open Talk",
+		"where": ["JSHeroes Community"],
+		"description": "My role was to moderate the open talk discussion around Web Security.",
+		"tags": ["moderator", "web-security"]
+	},
+	{
+		"name": "2018 - Demystifying WebAssembly and how to get started",
+		"url": "https://slides.com/andrei-cacio/wasm",
+		"where": ["Codecamp Cluj"],
+		"description": "A gentle introduction into WebAssembly, Rust and the rust-wasm toolchain.",
+		"tags": ["tech talk", "conference", "web-assembly", "rust"]
+	},
+	{
+		"name": "2018 - WebAssembly for JavaScript Developers",
+		"url": "https://github.com/andrei-cacio/wasm-meetup",
+		"where": ["JSHeroes Community"],
+		"description": "A gentle introduction into WebAssembly, ArrayBuffers and binary data representations",
+		"tags": ["tech talk", "meetup", "web-assembly", "javascript"]
+	},
+	{
+		"name": "2018 - NodeSchool Cluj Mentor",
+		"where": ["Codecamp Cluj", "JSHeroes Community"],
+		"description": "NodeSchool is an all day event where anybody can come in and start playing around with code. Each team has a dedicated mentor to help them out.",
+		"tags": ["mentor", "javascript", "node-school"]
+	},
+	{
+		"name": "2018 - Joyful unit testing with Jest",
+		"url": "https://slides.com/andrei-cacio/joyful-jest",
+		"where": ["Codecamp Cluj", "JSHeroes Community"],
+		"description": "The purpose of this talk was to present how easy testing can with a framework like Jest. And how to gradually add it to your daily work.",
+		"tags": ["tech talk", "conference", "meetup", "unit testing", "jest"]
+	},
+	{
+		"name": "2017 - Anatomy of ES Modules",
+		"url": "http://slides.com/andrei-cacio/anatomy-of-es-module",
+		"where": ["Codecamp Cluj", "CluJSers Community"],
+		"description": "This talk was a detailed overview of how modules evolved in the javascript ecosystem. From a simple design pattern to a full blown module system.",
+		"tags": ["tech talk", "conference", "meetup", "es modules"]
+	},
+	{
+		"name": "2016 - Webpack 1 workshop",
+		"url": "https://slides.com/andreicacio/webpack-training",
+		"where": ["CluJSers Community"],
+		"description": "Hands on workshop about Webpack 1.x.",
+		"tags": ["workshop", "webpack"]
+	},
+	{
+		"name": "2016 - Google <3 SPAs",
+		"url": "https://slides.com/andreicacio/google-3-spas",
+		"where": ["Hello.js", "Cluj.pm"],
+		"description": "This talk is about how search engines crawl javascript websites and how you can have your dynamic content crawled and indexed.",
+		"tags": ["tech talk", "conference", "meetup", "meteorjs"]
+	},
+	{
+		"name": "2013 - Introducing Ironwingjs",
+		"url": "https://www.todaysoftmag.com/article/1703/introducing-ironwingjs",
+		"where": ["Today software magazine Issue 41 launch"],
+		"description": "A custom wrapper over AJAX with model like API for easy data manipulation. Inspired by Ember's data model.",
+		"tags": ["tech talk", "meteorjs"]
+	},
+	{
+		"name": "2013 - Real time web with Meteor",
+		"url": "https://www.todaysoftmag.com/article/699/real-time-web-with-meteor",
+		"description": "A gentle introduction to the Meteor js framework",
+		"where": ["Today software magazine Issue 18 launch"],
+		"tags": ["tech talk", "meteorjs"]
+	}
+]
