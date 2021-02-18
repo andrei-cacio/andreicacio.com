@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Proud web developer",
+    description: "web developer, mentor, meetup organizer, public speaker",
     locale: "en",
-    title: "Andrei Cacio | proud web developer"
+    title: "Andrei Cacio | javascript developer"
   },
   plugins: [
     {
